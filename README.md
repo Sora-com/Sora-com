@@ -1,6 +1,4 @@
-## whoami 
-
-# Alice
+# Alicia O.C
 
 Third-year Computer Science student at the Universidad de Cádiz.
 
